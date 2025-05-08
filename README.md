@@ -8,7 +8,7 @@ I'm a **DevOps Engineer** passionate about personalizing artificial intelligence
 - 🔭 Working on: **A SaaS web app for academic management, integrating real-time leaderboards and scalable backend infrastructure**
 - 🌍 Languages: **Python, Go, SQL**
 - 📫 How to reach me: **achiugotrust@gmail.com**
-- ⚡ Fun fact: **If the world were ending, you'll find me buried in a book.**
+- ⚡ Fun fact: **_If the world were ending, you'll find me buried in a book_.**
 
 ## My Skills 🧠
 
