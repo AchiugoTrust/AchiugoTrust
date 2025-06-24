@@ -24,7 +24,7 @@ I'm a **Backend Engineer** passionate about personalizing artificial intelligenc
 
 ###  [CollegeLeaderboard](https://college-leaderboard-ie1l2r6hh-achiugotrusts-projects.vercel.app/)
 
-![Project Screenshot](project_screenshot_url)
+![Project Screenshot](CollegeLeaderboard.png)
 
 **CollegeLeaderboard** is a scalable web app designed to streamline academic processes. Features include **real-time student leaderboards** and **separate exam and assignment management**. Built with **Node.js, PocketBase, and Docker**.
 
