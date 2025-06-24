@@ -22,7 +22,7 @@ I'm a **Backend Engineer** passionate about personalizing artificial intelligenc
 
 ## Featured Projects 💻
 
-###  [CollegeLeaderboard](project_link)
+###  [CollegeLeaderboard]([project_link](https://college-leaderboard-ie1l2r6hh-achiugotrusts-projects.vercel.app/))
 
 ![Project Screenshot](project_screenshot_url)
 
