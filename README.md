@@ -33,6 +33,5 @@ I'm a **Backend Engineer** passionate about personalizing artificial intelligenc
 
 - **[Blog](https://medium.com/@achiugotrust)**
 - **[LinkedIn](https://www.linkedin.com/in/trust-achiugo/)**
-- **[Twitter](https://x.com/Trust05022002)**
 
 
