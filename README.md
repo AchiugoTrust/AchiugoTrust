@@ -8,7 +8,7 @@ I'm a **Backend Engineer** passionate about personalizing artificial intelligenc
 - 🔭 Working on: **A SaaS web app for academic management, integrating real-time leaderboards and scalable backend infrastructure**
 - 🌍 Languages: **Python, Go, SQL**
 - 📫 How to reach me: **achiugotrust@gmail.com**
-- ⚡ Fun fact: **_If the world were ending, you'll find me buried in a book_.**
+- ⚡ Fun fact: **_If the world were ending, find me buried in a book_.**
 
 ## My Skills 🧠
 
