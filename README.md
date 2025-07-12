@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a **Backend Engineer** passionate about personalizing artificial intelligence. I love learning new skills, tackling complex problems through automation, building and deploying robust systems, and collaborating with diverse teams to create innovative solutions.
+I'm an aspiring **Data and ML Engineer** passionate about personalizing artificial intelligence. I love learning new skills, tackling complex problems through automation, building and deploying robust systems, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Backend Development, Data Science and Machine Learning**
 - 🔭 Working on: **A SaaS web app for academic management, integrating real-time leaderboards and scalable backend infrastructure**
